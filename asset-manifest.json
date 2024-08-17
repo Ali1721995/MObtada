@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Ali1721995/Mobtada-clone.git/static/css/main.66e331e6.css",
-    "main.js": "/Ali1721995/Mobtada-clone.git/static/js/main.808fa1e8.js",
-    "static/js/453.ca929213.chunk.js": "/Ali1721995/Mobtada-clone.git/static/js/453.ca929213.chunk.js",
-    "static/media/resize-ezgif.com-webp-to-jpg-converter.jpg": "/Ali1721995/Mobtada-clone.git/static/media/resize-ezgif.com-webp-to-jpg-converter.a194382bb5cd0eb30d82.jpg",
-    "index.html": "/Ali1721995/Mobtada-clone.git/index.html",
-    "main.66e331e6.css.map": "/Ali1721995/Mobtada-clone.git/static/css/main.66e331e6.css.map",
-    "main.808fa1e8.js.map": "/Ali1721995/Mobtada-clone.git/static/js/main.808fa1e8.js.map",
-    "453.ca929213.chunk.js.map": "/Ali1721995/Mobtada-clone.git/static/js/453.ca929213.chunk.js.map"
+    "main.css": "/Ali1721995/Mobtada-Clone.git/static/css/main.66e331e6.css",
+    "main.js": "/Ali1721995/Mobtada-Clone.git/static/js/main.323c22f2.js",
+    "static/js/453.ca929213.chunk.js": "/Ali1721995/Mobtada-Clone.git/static/js/453.ca929213.chunk.js",
+    "static/media/resize-ezgif.com-webp-to-jpg-converter.jpg": "/Ali1721995/Mobtada-Clone.git/static/media/resize-ezgif.com-webp-to-jpg-converter.a194382bb5cd0eb30d82.jpg",
+    "index.html": "/Ali1721995/Mobtada-Clone.git/index.html",
+    "main.66e331e6.css.map": "/Ali1721995/Mobtada-Clone.git/static/css/main.66e331e6.css.map",
+    "main.323c22f2.js.map": "/Ali1721995/Mobtada-Clone.git/static/js/main.323c22f2.js.map",
+    "453.ca929213.chunk.js.map": "/Ali1721995/Mobtada-Clone.git/static/js/453.ca929213.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.66e331e6.css",
-    "static/js/main.808fa1e8.js"
+    "static/js/main.323c22f2.js"
   ]
 }
