@@ -3,19 +3,36 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@devnomic/marquee": "^1.0.2",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.7.4",
+    "bootstrap": "^5.3.3",
+    "cra-template": "1.2.0",
+    "generate-react-cli": "^8.4.8",
+    "jquery": "^3.7.1",
+    "marquee-react-dwyer": "^5.9.90",
+    "memoize": "^10.0.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-double-marquee": "^1.1.0",
+    "react-easy-marquee": "^1.2.4",
+    "react-fast-marquee": "^1.6.5",
+    "react-helmet": "^6.1.0",
+    "react-infinite-ticker": "^2.1.1",
+    "react-marquee-text": "^1.0.4",
     "react-scripts": "5.0.1",
+    "react-spinners": "^0.14.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -34,5 +51,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  },
+  "homepage": "https://github.com/alimahmoud-s/Mobtada-Clone.git"
 }

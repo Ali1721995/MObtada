@@ -1,0 +1,24 @@
+
+    li{list-style: none ;
+/* padding: 5px; */
+}
+a{
+    text-decoration: none;
+     color: azure !important;
+}
+.dropdown-menu{
+    border: none;
+    background-color: rgba(255,255,255,0.9);
+     color: black !important;
+     text-align: center;
+}
+.dropdown-menu a{ color: black !important;}
+.navbar{
+    background: #002f79 !important;
+   
+}
+.blue{
+  background:#002f79 !important;
+  color: white;
+  text-align: center;
+}

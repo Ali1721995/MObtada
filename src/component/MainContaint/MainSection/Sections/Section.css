@@ -1,0 +1,9 @@
+.hoverBlue:hover {
+  color: #002f79 !important;
+   text-shadow: 2px 2px #000000;
+
+}
+body{
+ font-family: Arial, Helvetica, sans-serif !important;
+}
+
